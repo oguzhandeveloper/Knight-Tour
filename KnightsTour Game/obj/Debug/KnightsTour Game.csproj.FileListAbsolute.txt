@@ -1,0 +1,16 @@
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour_Game.Properties.Resources.resources
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\bin\Debug\KnightsTour Game.exe
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\bin\Debug\KnightsTour Game.pdb
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.exe
+C:\Users\Oğuzhan\source\repos\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.pdb
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\bin\Debug\KnightsTour Game.exe
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\bin\Debug\KnightsTour Game.pdb
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour_Game.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.exe
+C:\Users\Oğuzhan\Desktop\KnightsTour Game 1\KnightsTour Game\obj\Debug\KnightsTour Game.pdb
